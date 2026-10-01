@@ -1,0 +1,13 @@
+fastapi==0.142.2
+starlette==1.7.0
+uvicorn==0.35.0
+python-multipart==0.0.31
+python-dotenv==1.2.2
+faiss-cpu==1.15.1
+transformers==5.17.0
+torch==2.14.1
+numpy==2.2.6
+PyMuPDF==1.28.2
+python-docx==1.2.0
+httpx==0.28.1
+socksio==1.0.0
