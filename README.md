@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:7C3AED,100:0F172A&height=180&section=header&text=NEUROVAULT%20%C3%97%20SYNAPSE&fontSize=38&fontColor=ffffff&fontAlignY=42&animation=fadeIn" width="100%" alt="NeuroVault and Synapse — local-first document knowledge and memory" />
+</p>
+
 # NeuroVault + Synapse Active Brain — V0
 
 A small, local-first document knowledge app. NeuroVault extracts and indexes your PDF, DOCX, and UTF-8 TXT files, then answers questions using a local Ollama model and linked excerpts. Synapse Active Brain V0 keeps a small structured memory of explicitly worded facts and asks you to review conflicting or updated facts before changing that memory.
