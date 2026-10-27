@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:7C3AED,100:0F172A&height=180&section=header&text=NEUROVAULT%20%C3%97%20SYNAPSE&fontSize=38&fontColor=ffffff&fontAlignY=42&animation=fadeIn" width="100%" alt="NeuroVault and Synapse — local-first document knowledge and memory" />
+  <img src="assets/readme-hero.svg" width="100%" alt="NEUROVAULT × SYNAPSE — Private document intelligence with traceable memory" />
 </p>
 
 # NeuroVault + Synapse Active Brain — V0
